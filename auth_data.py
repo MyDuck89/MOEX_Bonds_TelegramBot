@@ -1,0 +1,2 @@
+token = ''
+tinkoff_token = ''
